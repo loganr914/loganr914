@@ -2,7 +2,7 @@
 
 ## About me
 
-#### My name is Logan, and I'm a self-taught programmer/game developer from Florida.
+#### My name is Logan, and I'm a self-taught programmer and game developer from Florida.
 
 ✨ My first programming experience was with MicroPython in 2022, when I discovered microcontrollers and bought a few Raspberry Pi RP2040 boards to tinker with. I played around with them for a little while, but didn't make much progress in understanding how to code or how it all works. I also got into 3D modelling and printing around that same time, but after a few successes, I had too many issues with my printer destroying what it was supposed to create. That was when I realized the value of digital creation.
 
